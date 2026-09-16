@@ -1,5 +1,5 @@
 cask "thinkos" do
-  version "0.9.1"
+  version "0.10.0"
   sha256 "40a2ef0564e26216faa4dd09800c079a022a8da8d35dbfde6787bd330ffb7287"
 
   url "file://#{__dir__}/../binaries/thinkOS-macos.zip"
